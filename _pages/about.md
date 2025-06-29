@@ -29,6 +29,7 @@ If you are seeking any form of <strong>academic cooperation</strong>, please fee
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our team’s project, *AI Proctor Agent*, won 1st place at the Open Hack U 2025 TOKYO hackathon! 
 - *2025.01*: &nbsp;🎉🎉 My first paper on Quantum Computing is accepted by IEEE-QCNC 2025.
 
 # 📝 Publications 
@@ -48,16 +49,13 @@ Coming soon!
 </div> -->
 
 # 🎖 Honors and Awards
+- *2025.06* 1st Place, [Open Hack U 2025 TOKYO](https://hacku.yahoo.co.jp/hacku2025_tokyo/) *issued by [LY Corporation](https://www.lycorp.co.jp/en/)*.
 - *2024.06* Outstanding Academic Achievement Award (Top 1 GPA) *issued by Toyohashi University of Technology*. 
 - *2023.03* Monbukagakusho Honors Scholarship for Privately-Financed International Students *issued by [JASSO](https://www.jasso.go.jp/en/index.html)*.
-- *2020.12* Full-Ride Undergraduate Scholarship in Japan (5 students in Vietnam each year) *issued by [International Cooperation Department - Vietnam Ministry of Education and Training](https://icd.edu.vn/)* sponsored by [Mitsubishi Heavy Industries, Ltd](https://www.mhi.com/).* 
-
+- *2020.12* Full-Ride Undergraduate Scholarship in Japan (5 students in Vietnam each year) *issued by [International Cooperation Department - Vietnam Ministry of Education and Training](https://icd.edu.vn/)* sponsored by [Mitsubishi Heavy Industries, Ltd](https://www.mhi.com/). 
 - *2019.05* Pham Van Vuc Scholarship
-
 - *2018.09* [Vallet Scholarship](https://www.fondationvallet.org/en/scholarships/vietnam/)
-
-- *2017.05*, Pham Van Vuc Scholarship
-
+- *2017.05* Pham Van Vuc Scholarship
 - 8x Consecutive Most Distinguished Student Awardee
 - 1x🥇 National Violympic Mathematics Competition
 - 1x🥇 Provincial Violympic Physics Competition
