@@ -31,8 +31,8 @@ Coming soon!
 
 # 🎖 Honors and Awards
 - *2025.06* 1st Place, [Open Hack U 2025 TOKYO](https://hacku.yahoo.co.jp/hacku2025_tokyo/) *issued by [LY Corporation](https://www.lycorp.co.jp/en/)*.
-- *2024.06* Outstanding Academic Achievement Award (Top 1 GPA) *issued by Toyohashi University of Technology*. 
-- *2023.03* Monbukagakusho Honors Scholarship for Privately-Financed International Students *issued by [JASSO](https://www.jasso.go.jp/en/index.html)*.
+- *2024.06* Outstanding Academic Achievement Award for AY 2023 (Top 1 GPA) *issued by Toyohashi University of Technology*. 
+- *2023.03* Monbukagakusho Honors Scholarship for Privately-Financed International Students *issued by [JASSO](https://www.jasso.go.jp/en/index.html)*. *(earned but declined due to existing full-ride scholarship)*
 - *2020.12* Full-Ride Undergraduate Scholarship in Japan (5 students in Vietnam each year) *issued by [International Cooperation Department - Vietnam Ministry of Education and Training](https://icd.edu.vn/)* sponsored by [Mitsubishi Heavy Industries, Ltd](https://www.mhi.com/). 
 - *2019.05* Pham Van Vuc Scholarship
 - *2018.09* [Vallet Scholarship](https://www.fondationvallet.org/en/scholarships/vietnam/)
@@ -49,7 +49,7 @@ Coming soon!
 # 📖 Educations
 - *2023.04 - Present*: Bachelor of Engineering, Computer Science and Engineering, Toyohashi University of Techonology, Aichi, Japan
 - *2021.03 - 2023.03*: Sendagaya Japanese College, Tokyo, Japan
-- *2019.08 - 2021.02*: Bachelor of Engineering (Honors Program), Computer Science and Engineering, Bach Khoa University, VNU-HCM, Ho Chi Minh City, Vietnam
+- *2019.08 - 2021.02*: Bachelor of Engineering (Honors Program) - *Incomplete*, Computer Science and Engineering, Ho Chi Minh University of Technology, VNU-HCM, Ho Chi Minh City, Vietnam
 - *2016.08 - 2019.06*: Duc Trong High School, Lam Dong, Vietnam
 
 # 💬 Invited Talks
