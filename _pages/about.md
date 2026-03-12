@@ -85,6 +85,7 @@ If you are seeking any form of <strong>academic cooperation</strong>, please fee
 
 # 💻 Internships
 
+- _2026.02 - 2026.03_: Research Intern, Lehman College - CUNY, New York, United States.
 - _2024.08 - 2024.08_: Project Management Intern, Mitsubishi Heavy Industries, Ltd, Tokyo, Japan.
 - _2024.08 - 2024.12_: AI Engineer Intern, [HachiX](https://www.hachi-x.com/), Nagoya, Japan.
 
