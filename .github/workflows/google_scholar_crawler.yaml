@@ -1,10 +1,9 @@
 name: Get Citation Data
 
-# Temporarily disabled to prevent scheduled runs
-# on: 
-#  page_build: 
-#  schedule:
-#   - cron:  '0 8 * * *'
+on: 
+ page_build: 
+ schedule:
+  - cron:  '0 8 * * *'
 
 jobs:
   build:
