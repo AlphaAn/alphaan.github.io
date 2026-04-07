@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "An Thai Khac Duc"
-description              : "Third-year Student in CSE at TUT."
+title                    : "Thai Khac Duc An"
+description              : "Final-year Student in CSE at TUT."
 repository               : "AlphaAn/alphaan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "An Thai Khac Duc"
+  name             : "Thai Khac Duc An"
   avatar           : "images/portrait.jpg"
   bio              : "Knowledge Seeker"
   location         : "Aichi, Japan"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "an.thaikhacduc@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Khac-Duc-An-Thai"
   uri              :
   bitbucket        :
   codepen          :

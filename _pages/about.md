@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year student majoring in Computer Science and Engineering at <a href='https://www.tut.ac.jp/'>Toyohashi University of Technology</a>.
-My research interest includes Quantum Computing and Artificial Intelligence.
+I am a final-year student majoring in Computer Science and Engineering at <a href='https://www.tut.ac.jp/'> Toyohashi University of Technology</a>.
+
+From April 2026, I work at VPAC lab under the supervision of <a href='https://scholar.google.com/citations?user=xvjT34gAAAAJ'>Prof. Shigeki Nakauchi</a>.
+
+My research interests are currently focused on Computational Imaging and Color Vision, following earlier work in Quantum Computing and Artificial Intelligence.
 
 If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="mailto:thai.khac.duc.an.vw@tut.jp">thai.khac.duc.an.vw@tut.jp</a>.
 
@@ -74,10 +77,10 @@ If you are seeking any form of <strong>academic cooperation</strong>, please fee
 
 # 📖 Educations
 
-- _2023.04 - Present_: Bachelor of Engineering, Computer Science and Engineering, Toyohashi University of Techonology, Aichi, Japan
-- _2021.03 - 2023.03_: Sendagaya Japanese College, Tokyo, Japan
-- _2019.08 - 2021.02_: Bachelor of Engineering (Honors Program) - _Incomplete_, Computer Science and Engineering, Ho Chi Minh University of Technology, VNU-HCM, Ho Chi Minh City, Vietnam
-- _2016.08 - 2019.06_: Duc Trong High School, Lam Dong, Vietnam
+- _2023.04 - Present_: Bachelor of Engineering, Computer Science and Engineering, Toyohashi University of Techonology, Aichi, Japan.
+- _2021.03 - 2023.03_: Sendagaya Japanese College, Tokyo, Japan.
+- _2019.08 - 2021.02_: Bachelor of Engineering (Honors Program) - _Incomplete_, Computer Science and Engineering, Ho Chi Minh University of Technology, VNU-HCM, Ho Chi Minh City, Vietnam.
+- _2016.08 - 2019.06_: Duc Trong High School, Lam Dong, Vietnam.
 
 # 💬 Invited Talks
 
@@ -85,7 +88,7 @@ If you are seeking any form of <strong>academic cooperation</strong>, please fee
 
 # 💻 Internships
 
-- _2026.02 - 2026.03_: Research Intern, [Lehman College - CUNY](https://www.lehman.cuny.edu), New York, United States.
+- _2026.02 - 2026.03_: Research Intern, Lehman College - CUNY, New York, USA. Featured in a [program article](https://www.lehman.cuny.edu/news/2026/Lehman-Toyohashi-Exchange-Program-Brings-Japanese-Student-Researchers-to-Campus.php).
 - _2024.08 - 2024.08_: Project Management Intern, Mitsubishi Heavy Industries, Ltd, Tokyo, Japan.
 - _2024.08 - 2024.12_: AI Engineer Intern, [HachiX](https://www.hachi-x.com/), Nagoya, Japan.
 
