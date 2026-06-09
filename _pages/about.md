@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year student majoring in Computer Science and Engineering at <a href='https://www.tut.ac.jp/'> Toyohashi University of Technology</a>.
+I am a final-year student majoring in Computer Science and Engineering at <a href="https://www.tut.ac.jp/">Toyohashi University of Technology</a>.
 
-From April 2026, I work at VPAC lab under the supervision of <a href='https://scholar.google.com/citations?user=xvjT34gAAAAJ'>Prof. Shigeki Nakauchi</a>.
+My core research interests are <strong>Machine Learning</strong> and <strong>Quantum Computing</strong>. I had the great privilege of beginning my research in <strong>Quantum Information Theory</strong> during my sophomore year under <a href="https://researchmap.jp/dallarno?lang=en">Prof. Michele Dall'Arno</a>. Those 1.5 years of collaboration were a wonderful experience that deeply shaped my academic path. Following his departure, I continue to independently advance my quantum research and self-study.
 
-My research interests are currently focused on Computational Imaging and Color Vision, following earlier work in Quantum Computing and Artificial Intelligence.
+To broaden my computational toolkit for my graduation research, I joined the VPAC lab in April 2026 under <a href="https://scholar.google.com/citations?user=xvjT34gAAAAJ">Prof. Shigeki Nakauchi</a> to explore Computational Imaging and Color Vision.
 
-If you are seeking any form of <strong>academic cooperation</strong>, please feel free to email me at <a href="mailto:thai.khac.duc.an.vw@tut.jp">thai.khac.duc.an.vw@tut.jp</a>.
+For <strong>academic cooperation</strong>, please contact me at <a href="mailto:thai.khac.duc.an.vw@tut.jp">thai.khac.duc.an.vw@tut.jp</a>.
 
 # 🔥 News
 
