@@ -21,12 +21,12 @@ I am a final-year student majoring in Computer Science and Engineering at <a hre
 
 My core research interests are <strong>Machine Learning</strong> and <strong>Quantum Computing</strong>. I had the great privilege of beginning my research in <strong>Quantum Information Theory</strong> during my sophomore year under <a href="https://researchmap.jp/dallarno?lang=en">Prof. Michele Dall'Arno</a>. Those 1.5 years of collaboration were a wonderful experience that deeply shaped my academic path. Following his departure, I continue to independently advance my quantum research and self-study.
 
-To broaden my computational toolkit for my graduation research, I joined the VPAC lab in April 2026 under <a href="https://scholar.google.com/citations?user=xvjT34gAAAAJ">Prof. Shigeki Nakauchi</a> to explore Computational Imaging and Color Vision.
+To broaden my computational toolkit for my graduation research, I joined the VPAC lab in April 2026 under <a href="https://scholar.google.com/citations?user=xvjT34gAAAAJ">Prof. Shigeki Nakauchi</a> to explore Computational Imaging.
 
 For <strong>academic cooperation</strong>, please contact me at <a href="mailto:thai.khac.duc.an.vw@tut.jp">thai.khac.duc.an.vw@tut.jp</a>.
 
 # 🔥 News
-
+- _2026.07_: &nbsp;🎉🎉 Our paper has been accepted for publication in _IEEE Transactions on Information Theory_!
 - _2025.06_: &nbsp;🎉🎉 Our team’s project, _AI Proctor Agent_, won 1st place at the Open Hack U 2025 TOKYO hackathon!
 - _2025.01_: &nbsp;🎉🎉 My first paper on Quantum Computing is accepted by IEEE-QCNC 2025.
 
@@ -37,10 +37,10 @@ For <strong>academic cooperation</strong>, please contact me at <a href="mailto:
 </p>
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><div class="badge">arXiv 2025</div><img src="images/mi.png" alt="Mutual Information Representation" width="100%"></div></div>
+  <div class="paper-box-image"><div><div class="badge">IEEE-TIT</div><img src="images/mi.png" alt="Mutual Information Representation" width="100%"></div></div>
   <div class='paper-box-text'>
     <p>
-      <span class="paper-prefix">[S.1]</span>
+      <span class="paper-prefix">[J.1]</span>
       <a href="https://arxiv.org/abs/2512.11233" target="_blank" rel="noopener"><strong>On Shor’s conjecture on the accessible information of quantum dichotomies</strong></a>
     </p>
     <p>
