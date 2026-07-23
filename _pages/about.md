@@ -41,7 +41,7 @@ For <strong>academic cooperation</strong>, please contact me at <a href="mailto:
   <div class='paper-box-text'>
     <p>
       <span class="paper-prefix">[J.1]</span>
-      <a href="https://arxiv.org/abs/2512.11233" target="_blank" rel="noopener"><strong>On Shor’s conjecture on the accessible information of quantum dichotomies</strong></a>
+      <a href="https://doi.org/10.1109/TIT.2026.3715995" target="_blank" rel="noopener"><strong>On Shor’s conjecture on the accessible information of quantum dichotomies</strong></a>
     </p>
     <p>
       <strong>Khac Duc An Thai</strong>, Michele Dall’Arno
@@ -51,7 +51,7 @@ For <strong>academic cooperation</strong>, please contact me at <a href="mailto:
       <li> We introduce a state-dependent notion of extremality for quantum measurements and characterize extremal measurements for qubit dichotomies, tightening existing bounds on accessible information.</li>
     </ul>
     <div class="paper-links">
-      <a class="btn btn--info" href="https://arxiv.org/pdf/2512.11233.pdf" target="_blank" rel="noopener">PDF</a>
+      <a class="btn btn--info" href="https://doi.org/10.1109/TIT.2026.3715995" target="_blank" rel="noopener">PDF</a>
       <a class="btn btn--info" href="https://github.com/AlphaAn/somim" target="_blank" rel="noopener">Code</a>
     </div>
   </div>
